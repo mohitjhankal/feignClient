@@ -1,0 +1,3 @@
+com\feign\microserviceA\controller\MicroserviceAController.class
+com\feign\microserviceA\MicroserviceAApplication.class
+com\feign\microserviceA\repository\MicroserviceBClient.class
